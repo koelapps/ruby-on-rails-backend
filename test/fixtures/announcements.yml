@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  author: MyString
+  announcement_type: MyString
+  time: 2021-12-06
+  title: MyString
+  body: MyString
+  attachment: MyString
+  claps: 1
+  pinned_status: false
+
+two:
+  author: MyString
+  announcement_type: MyString
+  time: 2021-12-06
+  title: MyString
+  body: MyString
+  attachment: MyString
+  claps: 1
+  pinned_status: false
