@@ -85,5 +85,4 @@ test:
 #
 production:
   <<: *default
-  database: sms_core_backend_production
-  url: <%= ENV["DBURI"] %>
+  url: <%= ENV['DBURI'] %>
